@@ -1,3 +1,3 @@
 # JeopardyApplet
-Questions are placeholders for demonstration purposes
-Correct question answer pair is q# -> a#
+Questions are placeholders for demonstration purposes,
+correct question answer pair is q# -> a#
